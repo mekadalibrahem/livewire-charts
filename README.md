@@ -1,2 +1,2 @@
 # livewire-charts
-nteractive charts for Laravel
+Interactive charts for Laravel
